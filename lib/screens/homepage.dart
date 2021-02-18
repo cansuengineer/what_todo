@@ -3,12 +3,12 @@ import 'package:what_todo/database_helper.dart';
 import 'package:what_todo/screens/taskpage.dart';
 import 'package:what_todo/widgets.dart';
 
-class Homepage extends StatefulWidget {
+class Homepagex extends StatefulWidget {
   @override
   _HomepageState createState() => _HomepageState();
 }
 
-class _HomepageState extends State<Homepage> {
+class _HomepageState extends State<Homepagex> {
   DatabaseHelper _dbHelper = DatabaseHelper();
 
   @override

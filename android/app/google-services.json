@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821181981191",
+    "project_id": "what-todo-aa7d2",
+    "storage_bucket": "what-todo-aa7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821181981191:android:e4cfa4a49cc4e4b5e100a2",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.what_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821181981191-95qavgnv4oqdtnsuu51plt4naqu5biio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvacstudio.what_todo",
+            "certificate_hash": "940beba7802a112e05427ab8952c090095febaa6"
+          }
+        },
+        {
+          "client_id": "821181981191-8epqb7qlidletmo0pvkqfacb5mqa10el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4njsFWrMGcNFHeqB1H7wZ-2XDmQGZGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821181981191-8epqb7qlidletmo0pvkqfacb5mqa10el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
